@@ -9,7 +9,7 @@ body {
 }
 
 .calculator {
-    background-color: #008cff;
+    background-color: #ffffff;
     padding: 20px;
     border-radius: 20px;
     /* Sombra mais marcada para simular um contorno */
@@ -53,12 +53,12 @@ body {
 }
 
 .button.orange {
-    background-color: #a88449;
-    color: #000000;
+    background-color: #12f3556c;
+    color: #fff;
 }
 
 .button.light-gray {
-    background-color: #e0e0e0;
+    background-color: #d3d3d3;
     color: #000;
 }
 
